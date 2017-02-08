@@ -1,0 +1,28 @@
+@charset "UTF-8";
+#wpbody-content{
+  .link-doc{
+    margin-top: 20px;
+    a{
+      display: inline-block;
+      text-decoration: none;
+      dl{
+        width: 100%;
+        display: table;
+        margin: 0;
+        dt, dd{
+          display: table-cell;
+          vertical-align: middle;
+        }
+        dt{
+          width: 18px;
+          img{
+            display: block;
+          }
+        }
+        dd{
+          padding-left: 8px;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "sectsect/cfs-post2post",
+    "description": "Two way Relationship Fields for Custom Field Suite",
+	"keywords": ["github", "wordpress", "plugin", "CFS", "custom field suite", "Relationship"],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.3"
+    },
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "SECT WEB INTERACTIVE",
+			"homepage": "https://www.ilovesect.com/"
+        }
+    ]
+}
