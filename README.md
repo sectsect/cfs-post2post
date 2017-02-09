@@ -35,7 +35,8 @@ And select overwrite type.
 - `First Element`
 - `Last Element`
 
-The value selected in the field is deleted and the new value is added to the end.
+The value selected in the field is deleted and the new value is added to the end.  
+:memo: Also automatically removing the relationship field on the other end of the removed relationship.
 
 ## NOTES for Developer
 
