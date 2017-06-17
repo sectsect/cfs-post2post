@@ -28,7 +28,7 @@ This plugin is inspired by <img src="https://github-sect.s3-ap-northeast-1.amazo
 
 If the field in a related post, whether it is a relationship field that has a maximum number of related posts, if the field in the related post already has the maximum number of values allowed then, by default, a new value will not be added. You can override this default by specifying overwrite settings.  
 
-You can access the Overwrite setting by going to `Settings` -> `CFS Post 2 Post`.
+You can access the Overwrite setting by going to `Field Groups` -> `CFS Post 2 Post`.
 And select overwrite type.
 
 - `Do not overwrite`
@@ -44,6 +44,7 @@ The value selected in the field is deleted and the new value is added to the end
 
 ## Change log  
 
+ * **1.0.1** - Change the page-type for setting to the sub-menu page
  * **1.0.0** - Initial Release
 
 ## License
