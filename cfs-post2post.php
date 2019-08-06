@@ -4,7 +4,7 @@ Plugin Name: CFS Post-2-Post
 Plugin URI: https://github.com/sectsect/cfs-post2post
 Description: Two way Relationship Fields for Custom Field Suite
 Author: SECT INTERACTIVE AGENCY
-Version: 1.0.1
+Version: 1.0.2
 Author URI: https://www.ilovesect.com/
 */
 
